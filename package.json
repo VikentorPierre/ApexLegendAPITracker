@@ -1,0 +1,22 @@
+{
+  "name": "apex-full-stack",
+  "version": "1.0.0",
+  "description": "track stats for apex legends ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "serverdev": "nodemon server"
+  },
+  "author": "vikentor pierre",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
