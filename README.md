@@ -1,3 +1,5 @@
+Apex Legends Stat Tracker
+
 Version
 1.0.0
 
